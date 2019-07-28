@@ -1,18 +1,5 @@
-# cli-project
+# Vue JS 2 Tutorial playlist
 
-> A Vue.js project
+This is a fork of [`iamshaunjp/vuejs-playlist`](https://github.com/iamshaunjp/vuejs-playlist/tree/master), with all `lesson-*` branches saved as a folder in the master branch, to make it easier to navigate the files.
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Visit the [playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) on Youtube to watch the tutorials.
